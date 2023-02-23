@@ -2,7 +2,7 @@
 /**
  * In order to make our programs even more impressive and interactive, we need to learn how to better leverage
  * boolean expressions. This will allow our programs to follow their own logic. For this example, you should look into
- * the different operators for basic boolean expressions.
+ * the different operators for basic boolean expressions
  * 
  * More resources: https://www.freejavaguide.com/boolean_operators.htm
  * 
@@ -11,7 +11,7 @@
 public class Lab {
     /**
      * @param b a true/false value.
-     * @return if b is true, return true. if b is false, return false.
+     * @return if b is true, return true. if b is false, return false
      */
     public boolean returnBoolean(boolean b){
         if (b == true) {
